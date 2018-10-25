@@ -22,7 +22,7 @@ keywords = ["http"]
 categories = ["web-programming"]
 
 [dependencies]
-bytes = "0.4"
+bytes = {path = "../bytes"}
 fnv = "1.0.5"
 itoa = "0.4.1"
 
